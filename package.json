@@ -1,0 +1,19 @@
+{
+  "name": "events-backend",
+  "version": "1.0.0",
+  "description": "backend da aplicação rodando em nodejs, aplicação de eventos online e presenciais",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Everton-lacerda/events-backend.git"
+  },
+  "author": "Everton Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Everton-lacerda/events-backend/issues"
+  },
+  "homepage": "https://github.com/Everton-lacerda/events-backend#readme"
+}
